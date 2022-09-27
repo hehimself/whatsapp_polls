@@ -30,7 +30,7 @@ output:
 Which is your favorite animal ?
 
 👍:  elephant
-:heart:️:  monkey
+❤:  monkey
 😂:  horse
 😮:  mouse
 😢:  hippo
